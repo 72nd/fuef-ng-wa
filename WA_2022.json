@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"WA_2022.json"
+        }
+    },
  "height":80,
  "infinite":false,
  "layers":[
@@ -854,7 +862,7 @@
                         }, 
                         {
                          "duration":121,
-                         "tileid":0
+                         "tileid":1
                         }, 
                         {
                          "duration":121,
