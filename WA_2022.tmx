@@ -136,7 +136,7 @@
   </tile>
  </tileset>
  <tileset firstgid="213" name="Til_Background" tilewidth="32" tileheight="32" tilecount="100" columns="10">
-  <image source="Tils/Til_Background.png" width="320" height="320"/>
+  <image source="Tils/Til_day.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="313" name="Til_Muster" tilewidth="32" tileheight="32" tilecount="100" columns="10">
   <image source="Tils/Til_Muster.png" width="320" height="320"/>
