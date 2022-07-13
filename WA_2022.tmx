@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="80" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <editorsettings>
+  <export target="WA_2022.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="Tilset_Bühne" tilewidth="32" tileheight="32" tilecount="192" columns="24">
   <image source="Tils/Tilset_Bühne.png" width="768" height="256"/>
   <tile id="25">
@@ -232,7 +235,7 @@
    <animation>
     <frame tileid="1" duration="121"/>
     <frame tileid="3" duration="121"/>
-    <frame tileid="0" duration="121"/>
+    <frame tileid="1" duration="121"/>
     <frame tileid="5" duration="121"/>
     <frame tileid="1" duration="121"/>
     <frame tileid="7" duration="121"/>
