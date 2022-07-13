@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="80" height="80" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
  <tileset firstgid="1" name="Tilset_Bühne" tilewidth="32" tileheight="32" tilecount="192" columns="24">
-  <image source="tils/1x/Tilset_Bühne.png" width="768" height="256"/>
+  <image source="Tils/Tilset_Bühne.png" width="768" height="256"/>
   <tile id="25">
    <animation>
     <frame tileid="25" duration="21"/>
@@ -100,7 +100,7 @@
   </tile>
  </tileset>
  <tileset firstgid="193" name="Tilset_fireflyjar" tilewidth="32" tileheight="32" tilecount="10" columns="5">
-  <image source="tils/1x/Tilset_fireflyjar.png" width="160" height="64"/>
+  <image source="Tils/Tilset_fireflyjar.png" width="160" height="64"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="100"/>
@@ -117,7 +117,7 @@
   </tile>
  </tileset>
  <tileset firstgid="203" name="Tilset_achtung" tilewidth="32" tileheight="32" tilecount="10" columns="5">
-  <image source="tils/1x/Tilset_achtung.png" width="160" height="64"/>
+  <image source="Tils/Tilset_achtung.png" width="160" height="64"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="21"/>
@@ -133,16 +133,16 @@
   </tile>
  </tileset>
  <tileset firstgid="213" name="Til_Background" tilewidth="32" tileheight="32" tilecount="100" columns="10">
-  <image source="tils/Til_Background.png" width="320" height="320"/>
+  <image source="Tils/Til_Background.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="313" name="Til_Muster" tilewidth="32" tileheight="32" tilecount="100" columns="10">
-  <image source="tils/Til_Muster.png" width="320" height="320"/>
+  <image source="Tils/Til_Muster.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="413" name="Tilset_objects" tilewidth="32" tileheight="32" tilecount="120" columns="12">
-  <image source="tils/1x/Tilset_objects.png" width="384" height="320"/>
+  <image source="Tils/Tilset_objects.png" width="384" height="320"/>
  </tileset>
  <tileset firstgid="533" name="Tilset_FüF" tilewidth="32" tileheight="32" tilecount="48" columns="12">
-  <image source="tils/1x/1x/Tilset_FüF.png" width="384" height="128"/>
+  <image source="Tils/Tilset_FüF.png" width="384" height="128"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="100"/>
@@ -209,13 +209,13 @@
   </tile>
  </tileset>
  <tileset firstgid="581" name="Tilset_grounds" tilewidth="32" tileheight="32" tilecount="42" columns="7">
-  <image source="tils/1x/Tilset_grounds.png" width="224" height="192"/>
+  <image source="Tils/Tilset_grounds.png" width="224" height="192"/>
  </tileset>
  <tileset firstgid="623" name="Ground_black" tilewidth="32" tileheight="32" tilecount="100" columns="10">
-  <image source="tils/1x/1x/Ground_black.png" width="320" height="320"/>
+  <image source="Tils/Ground_black.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="723" name="Tilset_Sign" tilewidth="32" tileheight="32" tilecount="20" columns="10">
-  <image source="tils/1x/1x/Tilset_Sign.png" width="320" height="64"/>
+  <image source="Tils/Tilset_Sign.png" width="320" height="64"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="121"/>
@@ -242,10 +242,10 @@
   </tile>
  </tileset>
  <tileset firstgid="743" name="Tilset_SM" tilewidth="32" tileheight="32" tilecount="3" columns="3">
-  <image source="tils/1x/1x/Tilset_SM.png" width="96" height="32"/>
+  <image source="Tils/Tilset_SM.png" width="96" height="32"/>
  </tileset>
  <tileset firstgid="746" name="Til_facesmuster" tilewidth="32" tileheight="32" tilecount="100" columns="10">
-  <image source="tils/Til_facesmuster.png" width="320" height="320"/>
+  <image source="Tils/Til_facesmuster.png" width="320" height="320"/>
  </tileset>
  <layer id="6" name="black" width="80" height="80">
   <data encoding="csv">
