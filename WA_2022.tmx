@@ -1011,7 +1011,7 @@
   </layer>
   <layer id="45" name="Scientist" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=xN69SHuYosY"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/xN69SHuYosY"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1098,7 +1098,7 @@
   </layer>
   <layer id="46" name="Schülerlabor" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=YCvSY0DGxBU"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/YCvSY0DGxBU"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1185,7 +1185,7 @@
   </layer>
   <layer id="47" name="Smart Bob" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=hYw-AbrMm6M"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/hYw-AbrMm6M"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1272,7 +1272,7 @@
   </layer>
   <layer id="48" name="MultiBrane" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=kqxRjpKGdsM"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/kqxRjpKGdsM"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1359,7 +1359,7 @@
   </layer>
   <layer id="49" name="Algenpool" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=QgDwSTE32pg&amp;t=1s"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/QgDwSTE32pg"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1446,7 +1446,7 @@
   </layer>
   <layer id="50" name="Schwarze Löcher" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=VDpmIQxAoTM"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/VDpmIQxAoTM"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1533,7 +1533,7 @@
   </layer>
   <layer id="51" name="Projektversuche" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=NKcUIMV0N3U"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/NKcUIMV0N3U"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
