@@ -315,7 +315,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=-63B4qnw9ng&list=PLxBGoo9cyo3-rqNjreDUQzd1S6iFtwMpm&index=3"
+                         "value":"https:\/\/www.youtube.com\/embed\/-63B4qnw9ng"
                         }],
                  "type":"tilelayer",
                  "visible":true,

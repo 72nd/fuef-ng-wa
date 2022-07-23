@@ -1620,7 +1620,7 @@
   </layer>
   <layer id="52" name="Stirlingmotor" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="https://www.youtube.com/watch?v=-63B4qnw9ng&amp;list=PLxBGoo9cyo3-rqNjreDUQzd1S6iFtwMpm&amp;index=3"/>
+    <property name="openWebsite" value="https://www.youtube.com/embed/-63B4qnw9ng"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
