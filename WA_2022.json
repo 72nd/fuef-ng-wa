@@ -5024,9 +5024,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/www.festivalfuerfreunde.de\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTAST um diesen Link zu \u00f6ffnen"
                         }],
                  "type":"tilelayer",
                  "visible":true,

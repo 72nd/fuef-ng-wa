@@ -4603,7 +4603,9 @@
   </layer>
   <layer id="74" name="Webseite" width="80" height="80">
    <properties>
-    <property name="openWebsite" value="http://www.festivalfuerfreunde.de/"/>
+    <property name="openTab" value="http://www.festivalfuerfreunde.de/"/>
+    <property name="openWebsiteTrigger" value="onaction"/>
+    <property name="openWebsiteTriggerMessage" value="Drücke die LEERTAST um diesen Link zu öffnen"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
